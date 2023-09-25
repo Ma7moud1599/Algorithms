@@ -1,4 +1,4 @@
-#include "Huffman.h"
+#include "huffman.h"
 #include <iostream>
 #include <unordered_map>
 

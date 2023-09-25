@@ -1,4 +1,4 @@
-#include "Huffman.h"
+#include "huffman.h"
 
 Huffman::Huffman(string message) {
   unordered_map<char, int> freqHash;
