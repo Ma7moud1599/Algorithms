@@ -2,7 +2,7 @@
 #ifndef SORT_H
 #define SORT_H
 
-#include "knapsack.h"
+#include "Knapsack.h"
 #include <vector>
 
 using namespace std;

@@ -2,7 +2,7 @@
 #ifndef PRINT_H
 #define PRINT_H
 
-#include "knapsack.h"
+#include "Knapsack.h"
 #include <iostream>
 
 class Print {

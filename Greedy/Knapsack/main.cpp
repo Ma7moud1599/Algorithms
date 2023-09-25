@@ -1,4 +1,4 @@
-#include "knapsack.h"
+#include "Knapsack.h"
 #include "print.h"
 #include "sort.h"
 #include "string"

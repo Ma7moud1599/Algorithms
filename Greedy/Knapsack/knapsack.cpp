@@ -1,4 +1,4 @@
-#include "knapsack.h"
+#include "Knapsack.h"
 #include <iostream>
 #include <vector>
 Item::Item() {}

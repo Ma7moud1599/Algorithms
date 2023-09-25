@@ -1,5 +1,5 @@
 #include "print.h"
-#include "knapsack.h"
+#include "Knapsack.h"
 #include <iostream>
 using namespace std;
 
